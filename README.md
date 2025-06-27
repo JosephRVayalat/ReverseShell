@@ -1,2 +1,1 @@
-# ReverseShell
-to access it fast for me
+# php-reverse-shell
